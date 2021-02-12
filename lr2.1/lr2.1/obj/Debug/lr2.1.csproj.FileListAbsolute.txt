@@ -1,0 +1,6 @@
+C:\Temp\ПКС-85\Streltsov\mdk0302\lr2.1\lr2.1\bin\Debug\lr2.1.exe.config
+C:\Temp\ПКС-85\Streltsov\mdk0302\lr2.1\lr2.1\obj\Debug\lr2.1.csprojResolveAssemblyReference.cache
+C:\Temp\ПКС-85\Streltsov\mdk0302\lr2.1\lr2.1\bin\Debug\lr2.1.exe
+C:\Temp\ПКС-85\Streltsov\mdk0302\lr2.1\lr2.1\bin\Debug\lr2.1.pdb
+C:\Temp\ПКС-85\Streltsov\mdk0302\lr2.1\lr2.1\obj\Debug\lr2.1.exe
+C:\Temp\ПКС-85\Streltsov\mdk0302\lr2.1\lr2.1\obj\Debug\lr2.1.pdb
